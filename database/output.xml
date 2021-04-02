@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+     <book price="30.00">
+          <Title>Everyday Italian</Title>
+          <price>30.00</price>
+     </book>
+     <book price="29.99">
+          <Title>Harry Potter</Title>
+          <price>29.99</price>
+     </book>
+</books>
